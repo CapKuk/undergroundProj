@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UndergroundStartup</string>
+    <string name="sn_nstu">Социальная сеть\nНГТУ\n</string>
+    <string name="enter">Вход</string>
+    <string name="_continue">Продолжить</string>
+    <string name="description">Вот вам яркий пример\nсовременных тенденций -\nповышение уровня\nгражданского сознания\nспособствует подготовке и\nреализации экспериментов,\nпоражающих по своей\nмасштабности и\nграндиозности.</string>
+    <string name="login">Логин</string>
+    <string name="pw">Пароль</string>
+    <string name="Enter">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="forgot_pw"><u>Забыли пароль?</u></string>
+    <color name="white">#FFFFFF</color>
+    <color name="nstu_green">#14A463</color>
+    <color name="nstu_orange">#FFAA00</color>
+    <color name="text_black">#000000</color>
+</resources>
